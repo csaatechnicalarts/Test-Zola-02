@@ -8,3 +8,5 @@ remote_image = "https://images.unsplash.com/photo-1620121692029-d088224ddc74?ixl
 +++
 
 Example project page
+
+![](https://rustfoundation.org/wp-content/uploads/2024/07/cropped-rust-lang-logo-black-150x150.png)
