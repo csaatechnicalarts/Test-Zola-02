@@ -8,4 +8,4 @@ Hello, World! Thanks for checking out this site featuring the [Zolla-Apollo](htt
 Checkout all the [options you can configure](./posts/configuration) and the [example pages](./tags/example/). ![](icons/ice-cream-cone-svgrepo-com.png)
 
 
-![](naoki-suzuki-yyLdk1XfCK0-unsplash.jpg)
+![](images/naoki-suzuki-yyLdk1XfCK0-unsplash.jpg)
