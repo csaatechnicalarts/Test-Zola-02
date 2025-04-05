@@ -1,5 +1,5 @@
 base_url = "https://csaatechnicalarts.github.io/Test-Zola-02/"
-title = "Test Zola 02"
+title = "Site title - Test Zola 02"
 description = "This is a description. Will it appear on the site?"
 build_search_index = true
 generate_feeds = true
